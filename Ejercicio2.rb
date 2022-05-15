@@ -45,7 +45,7 @@ end
 class Ave < Animal
 end
 
-class Mamifero < Amimal  
+class Mamifero < Animal  
 end
 
 class Insecto < Animal  
